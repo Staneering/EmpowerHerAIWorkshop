@@ -1,2 +1,0 @@
-# EmpowerHerAIWorkshop
-PythonNotres
